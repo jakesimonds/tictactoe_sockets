@@ -1,6 +1,6 @@
 ### Tic Tac Toe Project Description 
 
-This was an academic project where we created client and server files to play Tic Tac Toe over web sockets. In a simpler world you could do this over a network, but with security being complicated this just works best when you both are on the same LAN, if I remember correctly. You can also just play yourself over two terminal windows.  
+This was an academic project where we created client and server files to play Tic Tac Toe over web sockets. In a simpler world you could do this over a network, but with security being complicated this works best when you both are on the same LAN, if I remember correctly. You can also just play yourself over two terminal windows on the same machine.  
 
 Also built an autoplayer that does not play perfectly, because it turns out there's more steps than you'd think to coding up an optimal playing agent. Kinda fun (I think) to try to beat it. Isn't too tricky. 
 
